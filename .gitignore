@@ -1,2 +1,7 @@
 # Project exclude paths
 /.gradle/
+/.idea/
+/build/
+/out/
+/libmixer/target/
+/libmixer/Cargo.lock
